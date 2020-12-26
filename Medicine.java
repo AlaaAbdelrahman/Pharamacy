@@ -1,4 +1,4 @@
-package pharmacy;
+package pharmacy.Pharamacy;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
@@ -10,6 +10,6 @@ package pharmacy;
  *
  * @author alaa
  */
-public class Medicine {
+public class Medicine extends MedicineSpec {
     
 }
